@@ -1,7 +1,7 @@
 # Gestor de Tareas y Uso de Memoria Asignable y Liberable
 
 
-**- Autores : Benjamin Sanhueza & Duvan Figueroa**
+- **Autores : Benjamin Sanhueza & Duvan Figueroa**
 
 
 **Planificadores de Procesos :**
