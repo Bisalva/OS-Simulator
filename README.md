@@ -28,7 +28,7 @@
 - Simulacion de Fragmentacion de Memmoria
 - Cambio de Contexto segun se requiera
 
-**Autores : Benjamin Sanhueza, Pablo Oyarzo, Duvan Figueroa**
+**Autores : Benjamin Sanhueza & Duvan Figueroa**
 
 >[!tip]
 > Los procesos deben ingresarse mediante el archivo "entrada-summ.txt" asi que se debe respetar el modo de ingreso de los datos al manipular el archivo.
